@@ -1,0 +1,12 @@
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\bin\Debug\TjCaptureCtrlVB.dll
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\bin\Debug\TjCaptureCtrlVB.pdb
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\bin\Debug\TjCaptureCtrlVB.tlb
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.Properties.Resources.resources
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.UserControl1.resources
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.userControl.captureFrame.resources
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.userControl.ShowFrame.resources
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.userControl.ThumbnailViewerPanel.resources
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.userControl.thumViewer.resources
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.csproj.GenerateResource.Cache
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.dll
+C:\Users\cs\Desktop\personalProgrammer\other\aforgo\TjCaptureCtrlVB\TjCaptureCtrlVB\TjCaptureCtrlVB\obj\Debug\TjCaptureCtrlVB.pdb
